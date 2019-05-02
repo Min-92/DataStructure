@@ -19,3 +19,24 @@ class Stack {
     }
 
 }
+
+const test = () => {
+    const stack = new Stack;
+
+    
+    stack.push(1);
+    stack.push(2);
+    console.log(stack.size());
+    console.log(stack.pop());
+    console.log(stack.size());
+    stack.push(3);
+    console.log(stack.peek());
+    console.log(stack.isEmpty());
+    console.log(stack.pop());
+    console.log(stack.pop());
+    console.log(stack.isEmpty());
+
+
+}
+
+test();
