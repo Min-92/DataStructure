@@ -6,7 +6,7 @@
 
 
 
-javascript 
+### [javascript](<https://github.com/Min-92/DataStructure/blob/master/sort/countingSort.js>) 
 
 ```javascript
 // k 는 요소중 최댓값
@@ -36,7 +36,7 @@ const countingSort = (arr, k) => {
 
 
 
-C++
+### [C++](<https://github.com/Min-92/DataStructure/blob/master/sort/countingSort.cpp>)
 
 ```c++
 // maxInt 는 요소 중 최댓값

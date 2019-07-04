@@ -4,7 +4,7 @@
 
 ## 구현 코드
 
-javascript 
+#### [javascript](<https://github.com/Min-92/DataStructure/blob/master/sort/mergeSort.js>)
 
 ```javascript
 const divide = (arr) => {
@@ -61,7 +61,7 @@ console.log(newArr);
 
 
 
-C++
+#### [C++](<https://github.com/Min-92/DataStructure/blob/master/sort/mergeSort.cpp>)
 
 ```c++
 #include <vector>

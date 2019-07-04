@@ -4,9 +4,7 @@
 
 ## 구현 코드
 
-javascript 
-
-
+#### [javascript](<https://github.com/Min-92/DataStructure/blob/master/sort/insertionSort.js>)
 
 ```javascript
 const insertionSort = (arr) => {
@@ -29,7 +27,7 @@ const insertionSort = (arr) => {
 
 
 
-C++
+#### [C++](<https://github.com/Min-92/DataStructure/blob/master/sort/insertionSort.cpp>)
 
 ```c++
 vector<int> insertionSort(vector<int> arr){

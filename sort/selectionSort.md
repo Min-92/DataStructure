@@ -6,7 +6,7 @@
 
 ## 구현 코드
 
-javascript
+#### [javascript](<https://github.com/Min-92/DataStructure/blob/master/sort/selectionSort.js>)
 
 ```javascript
 const selectionSort = (arr) =>{
@@ -33,7 +33,7 @@ const selectionSort = (arr) =>{
 
 
 
-C++
+#### [C++](<https://github.com/Min-92/DataStructure/blob/master/sort/selectionSort.cpp>)
 
 ```c++
 #include <vector>

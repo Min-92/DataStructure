@@ -4,7 +4,7 @@
 
 ## 구현 코드
 
-Java Script
+### [Java Script](<https://github.com/Min-92/DataStructure/blob/master/sort/bubbleSort.js>)
 
 ```javascript
 const bubbleSort = (arr) =>{
@@ -24,7 +24,7 @@ const bubbleSort = (arr) =>{
 }
 ```
 
-C++
+### [C++](<https://github.com/Min-92/DataStructure/blob/master/sort/bubbleSort.cpp>)
 
 ```c++
 #include <vector>

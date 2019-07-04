@@ -4,7 +4,7 @@
 
 ## 구현 코드
 
-javascript 
+#### [javascript](<https://github.com/Min-92/DataStructure/blob/master/sort/quickSort.js>)
 
 ```javascript
 const quickSort = (arr) => {
@@ -34,7 +34,7 @@ const quickSort = (arr) => {
 
 
 
-C++
+#### [C++](<https://github.com/Min-92/DataStructure/blob/master/sort/quickSort.cpp>)
 
 ```c++
 #include <vector>
