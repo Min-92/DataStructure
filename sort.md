@@ -4,13 +4,13 @@
 
 ## 정렬의 종류
 
-- Bubble sort (버블 정렬)
-- Selection sort (선택 정렬)
-- Insertion sort (삽입 정렬)
-- Merge sort (병합 정렬)
-- Quick sort (퀵 정렬)
-- Counting sort (계수 정렬)
-- Radix sort (기수 정렬)
+- [Bubble sort (버블 정렬)](<https://github.com/Min-92/DataStructure/blob/master/sort/bubbleSort.md>)
+- [Selection sort (선택 정렬)](<https://github.com/Min-92/DataStructure/blob/master/sort/selectionSort.md>)
+- [Insertion sort (삽입 정렬)](<https://github.com/Min-92/DataStructure/blob/master/sort/insertionSort.md>)
+- [Merge sort (병합 정렬)](<https://github.com/Min-92/DataStructure/blob/master/sort/mergeSort.md>)
+- [Quick sort (퀵 정렬)](<https://github.com/Min-92/DataStructure/blob/master/sort/quickSort.md>)
+- [Counting sort (계수 정렬)](<https://github.com/Min-92/DataStructure/blob/master/sort/countingSort.md>)
+- [Radix sort (기수 정렬)](<https://github.com/Min-92/DataStructure/blob/master/sort/radixSort.md>)
 
 
 
@@ -18,7 +18,7 @@
 
 - ### 안정 정렬
 
-  - 정렬 후에도 기존 순서가 유지되는 정렬
+  정렬 후에도 기존 순서가 유지되는 정렬
 
   1. Bubble sort (버블 정렬)
   2. Insertion sort (삽입 정렬)
@@ -28,7 +28,7 @@
 
 - ### 불안정 정렬
 
-  - 정렬 후에 기존 순서가 유지되지 않는 정렬
+  정렬 후에 기존 순서가 유지되지 않는 정렬
 
   1. Selection sort (선택 정렬)
   2. Quick sort (퀵 정렬)
